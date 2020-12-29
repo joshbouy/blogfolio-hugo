@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>welcome on Josh&#39;s Blog</title>
+    
+    
+    
+    <link>/tags/welcome/</link>
+    <description>Recent content in welcome on Josh&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hey I&#39;m Josh 👋</title>
+      <link>/posts/hello/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hello/</guid>
+      <description>
+        
+          &lt;img src=&#34;/img/cocohat.jpg&#34;/&gt;
+          
+        
+        
+        
+           Hi I&amp;rsquo;m Josh.
+I&amp;rsquo;m an aspiring Front-end developer and a CS student.
+Here you can see my upcoming projects and projects I&amp;rsquo;ve already completed
+ 
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

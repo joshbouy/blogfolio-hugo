@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Josh&#39;s Blog</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on Josh&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hey I&#39;m Josh 👋</title>
+      <link>/posts/hello/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hello/</guid>
+      <description>
+        
+          &lt;img src=&#34;/img/cocohat.jpg&#34;/&gt;
+          
+        
+        
+        
+           Hi I&amp;rsquo;m Josh.
+I&amp;rsquo;m an aspiring Front-end developer and a CS student.
+Here you can see my upcoming projects and projects I&amp;rsquo;ve already completed
+ 
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Making a custom startpage.</title>
+      <link>/posts/custom-startpage/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/custom-startpage/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          my attempt at a prettier way to open tabs
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Hey there 👋 My name is Joshua Baylasy and I&amp;rsquo;m currently a student at UC Davis 🐄.
+I&amp;rsquo;ve mostly worked with community organizations doing all types of different work like: outreaching, education and videography/telling stories.
+When I&amp;rsquo;m not at my computer, I love to play with my dog or work on side projects, aka whatever random thing I see on the internet.
+I have a passion for improvement and creating things that I actually care about and want to see succeed.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Let&amp;rsquo;s get in touch!  📧 email: jbaylasy@hotmail.com
+🐓 twitter: twitter.com/jbaylasy
+👩‍💻 github: https://github.com/joshbouy
+ 
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
